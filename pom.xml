@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.AutoRABIT</groupId>
-	<artifactId>salesforce-to-MySQL-DB-using-Batch-Processing_1.4.0</artifactId>
+	<artifactId>contacts_from_salesforce</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>mule</packaging>
-	<name>Mule salesforce-to-MySQL-DB-using-Batch-Processing_1.4.0 Application</name>
+	<name>contacts_from_salesforce</name>
 
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
