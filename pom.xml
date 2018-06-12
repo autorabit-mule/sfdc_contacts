@@ -141,13 +141,7 @@
             <artifactId>mule-module-sfdc</artifactId>
             <version>8.5.0</version>
         </dependency>
-    <dependency>
-            <groupId>org.mycompany</groupId>
-            <artifactId>some-artifact</artifactId>
-            <version>1.0.0</version>
-        </dependency>
-   
-
+    
 	<dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
