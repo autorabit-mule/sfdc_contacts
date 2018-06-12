@@ -62,7 +62,7 @@ http://www.mulesoft.org/schema/mule/ee/dw http://www.mulesoft.org/schema/mule/ee
                         </db:update>
                     </when>
                     <otherwise>
-                        <logger doc:name="Logger" level="INFO" message="Error with #[payload.email] contact"/>
+                        <logger doc:name="Logger" level="INFO" message="Error with #[payload.email] contact."/>
                     </otherwise>
                 </choice>
             </batch:step>                        
